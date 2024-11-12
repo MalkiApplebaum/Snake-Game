@@ -12,7 +12,9 @@ This is a simple text-based Snake game written in C. The game allows the player 
 Use these keys to navigate the snake in the desired direction.
 
 ## Screenshots
+**#game**
 ![Screenshot](1.png)
+**#end**
 ![Screenshot](2.png)
 
 ## Game Features
