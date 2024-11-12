@@ -1,0 +1,6 @@
+﻿  snake.c
+C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\SnakeGame\Snake_Lib\snake.c(24,1): warning C4005: 'WALLS_COLOR': macro redefinition
+  C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\SnakeGame\Snake_Lib\snake.h(8,1):
+  see previous definition of 'WALLS_COLOR'
+  
+  Snake_Lib.vcxproj -> C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\SnakeGame\x64\Debug\Snake_Lib.lib

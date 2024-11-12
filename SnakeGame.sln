@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake_UnitTest", "Snake_UnitTest\Snake_UnitTest.vcxproj", "{9355C4E0-C4F6-4307-9FC3-7DE1FB395A11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake_Runner", "Snake_Runner\Snake_Runner.vcxproj", "{9CAF2910-441D-47FD-8A9C-796F7CD10CBE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake_Lib", "Snake_Lib\Snake_Lib.vcxproj", "{5C86B6B5-BCF0-487A-B70C-3477D36DE870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9355C4E0-C4F6-4307-9FC3-7DE1FB395A11}.Debug|x64.ActiveCfg = Debug|x64
+		{9355C4E0-C4F6-4307-9FC3-7DE1FB395A11}.Debug|x64.Build.0 = Debug|x64
+		{9355C4E0-C4F6-4307-9FC3-7DE1FB395A11}.Release|x64.ActiveCfg = Release|x64
+		{9355C4E0-C4F6-4307-9FC3-7DE1FB395A11}.Release|x64.Build.0 = Release|x64
+		{9CAF2910-441D-47FD-8A9C-796F7CD10CBE}.Debug|x64.ActiveCfg = Debug|x64
+		{9CAF2910-441D-47FD-8A9C-796F7CD10CBE}.Debug|x64.Build.0 = Debug|x64
+		{9CAF2910-441D-47FD-8A9C-796F7CD10CBE}.Release|x64.ActiveCfg = Release|x64
+		{9CAF2910-441D-47FD-8A9C-796F7CD10CBE}.Release|x64.Build.0 = Release|x64
+		{5C86B6B5-BCF0-487A-B70C-3477D36DE870}.Debug|x64.ActiveCfg = Debug|x64
+		{5C86B6B5-BCF0-487A-B70C-3477D36DE870}.Debug|x64.Build.0 = Debug|x64
+		{5C86B6B5-BCF0-487A-B70C-3477D36DE870}.Release|x64.ActiveCfg = Release|x64
+		{5C86B6B5-BCF0-487A-B70C-3477D36DE870}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BF53464-0D92-4877-9257-8B4C9CDFD306}
+	EndGlobalSection
+EndGlobal
