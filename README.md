@@ -1,4 +1,5 @@
 # Snake Game
+### Developed by Malki Applebaum ✍️
 
 This is a simple text-based Snake game written in C. The game allows the player to control the snake and grow it by eating food, while avoiding collisions with walls and itself.
 
